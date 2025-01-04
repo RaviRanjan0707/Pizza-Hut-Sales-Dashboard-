@@ -1,0 +1,33 @@
+📊 Pizza Hut Sales Dashboard
+This repository showcases an interactive and visually appealing Power BI Dashboard created to analyze and visualize sales performance for Pizza Hut. The dashboard provides actionable insights to enhance decision-making and business strategy.
+
+Key Features:
+Sales Performance Analysis:
+Visual representation of revenue trends and sales distribution across different outlets.
+Identification of high-performing locations and time periods.
+
+Customer Insights:
+Analysis of customer preferences and order patterns.
+Segmentation based on popular items and purchase behavior.
+
+Product Performance:
+Evaluation of the best-selling pizza varieties and complementary items.
+Insights into underperforming products for strategic improvements.
+
+Order Trends:
+Detailed breakdown of order volumes, cancellations, and fulfillment rates.
+Seasonal trends and peak sales periods analysis.
+
+Visual Customization:
+Designed using Pizza Hut’s branding, including logos, icons, and themes for an immersive experience.
+
+Purpose:
+This dashboard was designed to help stakeholders:
+Identify growth opportunities by leveraging sales data.
+Make data-driven decisions to optimize inventory and marketing strategies.
+Enhance overall customer satisfaction by addressing pain points in order management.
+
+Technologies Used:
+Power BI: For creating interactive visuals and data modeling.
+Excel/CSV: For cleaning and preprocessing data before importing into Power BI.
+Custom Visuals: Incorporating brand-specific icons and themes.
